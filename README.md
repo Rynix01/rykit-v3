@@ -1035,7 +1035,7 @@ Murat BULUT (Rynix)
 
 If you have any questions or need help:
 
-- Open an [issue](https://github.com/rynix/rykit-v3/issues)
+- Open an [issue](https://github.com/Rynix01/rykit-v3/issues)
 - Contact me on Discord: `fresyproduction`
 
 ## 🌟 Show your support
