@@ -1,6 +1,6 @@
 {
   "name": "rykit-v3",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A powerful Node.js utility library for Minecraft server status, color manipulation, encryption, file operations, and more",
   "type": "module",
   "main": "index.js",
